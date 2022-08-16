@@ -1,5 +1,5 @@
 body {
-  background-image: url(/img/flower.jpg);
+  background-image: url(img/flower.jpg);
 }
 
 .dropdown-menu {
@@ -7,7 +7,7 @@ body {
   box-shadow: 2px 2px 10px;
 }
 .container {
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
   width: 100%;
 }
 .puskesmas {
@@ -18,7 +18,7 @@ body {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-style: italic;
   margin-top: 80px;
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
 }
 .container img {
   width: 200px;
@@ -29,7 +29,7 @@ body {
 .carousel-item img {
   padding: 20px;
   /* border-radius: 50px; */
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
 }
 
 .kegiatan {
@@ -51,7 +51,7 @@ body {
   text-shadow: 5px, 5px, 5px, 0;
 }
 #Galeri {
-  background-image: url(/img/flower.jpg);
+  background-image: url(img/flower.jpg);
 }
 .card {
   background-color: gray;
