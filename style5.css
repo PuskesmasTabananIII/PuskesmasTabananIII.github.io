@@ -2,7 +2,7 @@
 
 .jumbotron {
   padding-top: 6rem;
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
 }
 .dropdown-menu {
   background-color: rgb(13, 110, 253);
@@ -10,38 +10,38 @@
 }
 
 #Lansia {
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
 }
 
 #Gigi {
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
 }
 
 #Apotik {
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
 }
 
 #Umum {
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
   padding-top: 50px;
 }
 #Lansia {
   padding-top: 50px;
 }
 #KIA {
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
   padding-top: 50px;
 }
 #Gigi {
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
   padding-top: 50px;
 }
 #Lab {
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
   padding-top: 50px;
 }
 #Apotik {
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
   padding-top: 50px;
 }
 
