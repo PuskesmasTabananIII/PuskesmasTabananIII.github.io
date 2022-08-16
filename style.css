@@ -3,7 +3,7 @@
 .jumbotron {
   height: 800px;
   padding-top: 6rem;
-  background-image: url(/img/gedung1.jpg);
+  background-image: url(img/gedung1.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position: 0 0;
@@ -35,7 +35,7 @@ section {
   color: rgb(66, 173, 75);
 }
 #Galeri {
-  background-image: url(/img/1.jpg);
+  background-image: url(img/1.jpg);
   background-attachment: fixed;
   padding-top: 50px;
 }
@@ -48,13 +48,13 @@ h2 {
 
 #Tentang {
   height: 30%;
-  background-image: url(/img/patern.jpg);
+  background-image: url(img/patern.jpg);
   text-shadow: 2px 2px 5px;
   padding-top: 30px;
   padding-bottom: 30px;
 }
 #contact {
-  background-image: url(/img/flower.png);
+  background-image: url(img/flower.png);
   padding-bottom: 50px;
 }
 .dropdown-menu {
