@@ -35,8 +35,10 @@ section {
   color: rgb(66, 173, 75);
 }
 #Galeri {
-  background-image: url(img/1.jpg);
+  background-image: url(img/dbg.jpg);
+
   background-attachment: fixed;
+
   padding-top: 50px;
 }
 h2 {
@@ -54,7 +56,7 @@ h2 {
   padding-bottom: 30px;
 }
 #contact {
-  background-image: url(img/flower.png);
+  background-color: darkgrey;
   padding-bottom: 50px;
 }
 .dropdown-menu {
@@ -72,4 +74,7 @@ h2 {
 p {
   font-family: poppins;
   font-style: oswald;
+}
+.card {
+  border: 2px solid grey;
 }
