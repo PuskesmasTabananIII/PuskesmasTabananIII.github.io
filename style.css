@@ -8,7 +8,7 @@
   margin-top: 56px;
   background-attachment: fixed;
   background-size: cover;
-  background-position: 0 0;
+  background-position: center;
   overflow: hidden;
 }
 
@@ -26,7 +26,7 @@ section {
 .lead {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   color: rgb(66, 173, 75);
-  text-shadow: 5px 5px rgba(0, 0, 0, 0.5);
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.5);
 }
 .jumbotron h1 {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -76,4 +76,15 @@ p {
 }
 .card {
   border: 2px solid grey;
+}
+.container figure {
+  background-image: url(img/flower.png);
+}
+.container h1 {
+  background-color: darkgrey;
+  font-style: oswald;
+}
+.container figure-caption {
+  text-align: start;
+  font-size: medium;
 }
